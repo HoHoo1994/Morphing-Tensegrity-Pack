@@ -92,4 +92,4 @@ else:
 
 #----------------------------------------------------绘制张拉整体-------------------------------------------------------
 # 绘制张拉整体
-ax = visualize_tensegrity.draw_tensegrity(nodes, elements, node_labels=False, elem_labels=True)
+ax = visual_tensegrity.draw_tensegrity(nodes, elements, node_labels=False, elem_labels=True)
